@@ -1,0 +1,1 @@
+# waifu_downloader_rust
